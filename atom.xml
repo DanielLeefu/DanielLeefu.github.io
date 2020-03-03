@@ -42,9 +42,9 @@
     
       <category term="React" scheme="https://luckystart.xyz/tags/React/"/>
     
-      <category term="状态管理" scheme="https://luckystart.xyz/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
-    
       <category term="saga" scheme="https://luckystart.xyz/tags/saga/"/>
+    
+      <category term="状态管理" scheme="https://luckystart.xyz/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
@@ -72,9 +72,9 @@
     
       <category term="React" scheme="https://luckystart.xyz/tags/React/"/>
     
-      <category term="mobx" scheme="https://luckystart.xyz/tags/mobx/"/>
-    
       <category term="状态管理" scheme="https://luckystart.xyz/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="mobx" scheme="https://luckystart.xyz/tags/mobx/"/>
     
   </entry>
   
