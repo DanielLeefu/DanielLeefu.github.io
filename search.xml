@@ -22,9 +22,9 @@
             
             <tag> React </tag>
             
-            <tag> saga </tag>
-            
             <tag> 状态管理 </tag>
+            
+            <tag> saga </tag>
             
         </tags>
       
@@ -51,9 +51,9 @@
             
             <tag> React </tag>
             
-            <tag> 状态管理 </tag>
-            
             <tag> mobx </tag>
+            
+            <tag> 状态管理 </tag>
             
         </tags>
       
